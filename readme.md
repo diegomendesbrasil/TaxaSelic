@@ -6,7 +6,9 @@ Com base nesses códigos, você será capaz de criar em seu lakehouse tabelas ca
 
 No meu caso, disponibilizarei 2 bases, selic e selicacumuladamensal para que o time de negócio consiga criar seus relacionamentos necessários que dependam da taxa selic.
 
-fontes: https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic/resource/b73edc07-bbac-430c-a2cb-b1639e605fa8
+fontes: 
+
+        https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic/resource/b73edc07-bbac-430c-a2cb-b1639e605fa8
         
         
         https://dadosabertos.bcb.gov.br/group/economia-e-financas?q=selic&sort=score+desc%2C+metadata_modified+desc
